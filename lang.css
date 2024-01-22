@@ -1,0 +1,16 @@
+.body{
+    margin: 0;
+    
+}
+.main{
+    display:flex;
+}
+.card{
+    width:33vw;
+}
+img{
+    height: 270px;
+}
+p{
+    font-size: 30px;
+}

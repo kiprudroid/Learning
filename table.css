@@ -1,0 +1,12 @@
+table,th,td{
+    border:2px black solid;
+    text-align: center;
+    justify-content: space-around;
+}
+table{
+    width:70%
+}
+th{
+    font-weight: bolder;
+    font-size: 20px;
+}
